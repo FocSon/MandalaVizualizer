@@ -1,12 +1,14 @@
 # MandalaVizualizer
 Python graphic script made with turtle and tkinter 
 
-#Requirements
+# Requirements
+
 -Python 2.7
 -Tkinter
 -Turtle
 
-#How to use 
+# How to use 
+
 `python2.7 MandalaVizualizer.py`
 
 then push play
